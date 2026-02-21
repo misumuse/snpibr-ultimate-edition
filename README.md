@@ -6,7 +6,7 @@
 ![status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 
 ### what is this
-snpibr is your personal command center for crostini. it pulls your hardware specs, checks the weather without using mid emojis, and lets you control your music without leaving the terminal. it’s built to look like a system breach but actually gives you useful data.
+snpibr is your personal command center for crostini. it pulls your hardware specs, checks the weather without using as much ram, and lets you control your music without leaving the terminal. it’s built to look like a system breach but actually gives you useful data. oh and yeah you don't have to use crostini to use this, any distro will work. 
 
 ### how to boot it up
 if you aren't already in the sandbox (this one a cringe example), get back in:
