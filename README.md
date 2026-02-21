@@ -57,9 +57,9 @@ step 2: refresh the audio bridge
 if playerctl still says "no players found," run these commands in your terminal to kick the audio service back to life:
 
 Bash
-# reset the pulse audio config
+### reset the pulse audio config
 rm -rf ~/.config/pulse
-# restart the user-level audio service (this works where systemctl fails)
+### restart the user-level audio service (this works where systemctl fails)
 systemctl --user restart cros-pulse-config
 step 3: testing the link
 to verify the fix before you open snpibr, run this:
