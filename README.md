@@ -42,3 +42,4 @@ if you aren't already in the sandbox (this one a cringe example), get back in:
 ### fixing stuff
 * **weather says offline?** check your internet. if it still says offline, open-meteo might be down or your geocoder didn't find your ip yet.
 * **music says inactive?** make sure you have a tab open with spotify or youtube and that you've hit play at least once so the system sees the media stream.
+* **don't know what snpibr means?** I don't either, your guess is as good as mine
