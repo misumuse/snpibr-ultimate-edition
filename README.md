@@ -14,10 +14,14 @@ if you aren't already in the sandbox (this one a cringe example), get back in:
 2. `source .venv/bin/activate`
 3. `python3 sys_scan.py`
 
+<img width="1364" height="718" alt="Screenshot 2026-02-20 11 25 47 PM" src="https://github.com/user-attachments/assets/563a74e4-871f-4c84-aeae-4389c8811a6c" />
+
 ### the pages
 * **(h)ome**: the main dashboard. shows cpu/ram bars, the local time, and the weather.
 * **(m)usic**: the audio deck. shows what’s playing, the artist, and a volume bar. 
 * **(proc)esses**: the snitch page. shows the top 8 apps eating your ram so you can see what’s slowing you down.
+
+<img width="1365" height="718" alt="Screenshot 2026-02-20 11 26 12 PM" src="https://github.com/user-attachments/assets/a1ba6c89-c4ad-476e-a11b-950179b2d59b" />
 
 ### controls (type these and hit enter)
 * `p` -> play or pause your music/video.
@@ -26,6 +30,8 @@ if you aren't already in the sandbox (this one a cringe example), get back in:
 * `u` -> volume up (crank it 5%).
 * `d` -> volume down (drop it 5%).
 * `q` -> kill the connection and exit snpibr.
+
+<img width="1365" height="718" alt="Screenshot 2026-02-20 11 26 02 PM" src="https://github.com/user-attachments/assets/cf87d2d3-d6da-4d27-9545-b1ad5c4ade1b" />
 
 ### the tech inside
 * **weather**: uses open-meteo + geocoder. it finds your ip, gets your lat/long, and pulls raw data. no api keys needed, no rate-limit blocks.
