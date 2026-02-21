@@ -9,7 +9,7 @@
 snpibr is your personal command center for crostini. it pulls your hardware specs, checks the weather without using mid emojis, and lets you control your music without leaving the terminal. it’s built to look like a system breach but actually gives you useful data.
 
 ### how to boot it up
-if you aren't already in the sandbox, get back in:
+if you aren't already in the sandbox (this one a cringe example), get back in:
 1. `cd ~/projects/hacker_weather`
 2. `source .venv/bin/activate`
 3. `python3 sys_scan.py`
